@@ -33,6 +33,8 @@ print("Total no of words in file is",wordcount)
 fp.close()
 ```
 ### OUTPUT:
+![10 img](https://github.com/Sabari-2005/Command--line-arguments-to-count-word/assets/139338709/679eca65-8d5b-43a6-9f39-7d9ea763e07e)
+
 
 ## RESULT:
 Thus the program is written to find the word count from the contents of a file using command line arguments.
